@@ -1,0 +1,41 @@
+Body
+h1{ color: blue; }
+h2{ color: navy; }
+h3{ color: red}
+P{ color: navy}
+
+body{
+	background: skyblue;
+	color: Dodgerblue;
+	font-size: 18pt
+}	
+
+Table{
+	color: Navy}
+
+
+NAV
+a {
+	Display: Block;
+	border: 2px solid blue;
+	color: mediumblue;
+	background: slateblue;
+}
+a:hover {
+	color: red;
+}
+
+nav a{
+	display: inline-block;
+}
+<div>{
+.picture float: right}
+</div>
+	
+
+		<h1>Ryan A. O'Keefe</H1>
+		
+
+	
+</div>	
+
